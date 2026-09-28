@@ -50,7 +50,7 @@ docker run --rm toxicity-service pytest tests/ -v
 
 ## Что сдаётся
 
-- Dockerfile, docker-compose.yml, `.dockerignore` в репозитории.
+- `Dockerfile`, `docker-compose.yml`, `.dockerignore` в репозитории.
 - Демонстрация на защите: сборка образа, запуск тестов внутри контейнера.
 
 ## Примерные вопросы
